@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Siwoo and I'm a Full-Time Student (middle schooler), from Korea, South</h2>
 
 ###
 
@@ -39,11 +39,5 @@
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/siwoolol/siwoolol/output/snake.svg" alt="Snake animation" />
 
 ###
